@@ -4,3 +4,10 @@ a route from Invercargill to Kaitaia. In fact, even if both of these routes do h
 The purpose of this problem is to help the railroad provide its customers with information about the routes. 
 In particular, you will compute the distance along a certain route, the number of di↵erent routes
 between two towns, and the shortest route between two towns.
+# Requiremetns
+This code can be compiled with JDK 1.8 
+# Important Classes & Interfaces
+
+HomeWork
+
+The HomeWork class is the main entry point of the application.
